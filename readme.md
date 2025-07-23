@@ -38,10 +38,11 @@ This project is a simple and efficient **Event Registration System** built using
 ## 🖼️ Screenshots
 
 ### 🔑 Admin Login Page
-![Admin Login](screenshots/Screenshot (207).png)
+![Admin Login](screenshots/Screenshot%20(207).png)
 
 ### 📝 Registration Form
-![Registration Form](C:\wamp64\www\event\screenshots\Screenshot (206).png)
+![Registration Form](screenshots/Screenshot%20(206).png)
+
 
 
 ---
